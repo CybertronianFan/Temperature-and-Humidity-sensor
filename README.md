@@ -32,7 +32,7 @@ Connection Guide: (Make sure there is no power supplied to the Arduino until aft
 
 
 
-1. Connect the 5V Arduino pin to the + rail on the breadboard.
+1\. Connect the 5V Arduino pin to the + rail on the breadboard.
 
 2\. Connect the ground Arduino pin to the - rail on the breadboard.
 
