@@ -38,7 +38,7 @@ void loop() {
   lcd.setCursor(0,1); //moves the cursor to the bottom left (column 0, row 1)
   lcd.print("Hum: "); //writes the label for the humidity
   lcd.print(humidity); //prints the measured humidity 
-  lcd.print(""); //prints the label for humidity as a percentage
+  lcd.print("%"); //prints the label for humidity as a percentage
 
   delay(2000); // makes a small delay before the next reading 
 }

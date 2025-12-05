@@ -1,6 +1,6 @@
 # Temperature and Humidity Sensor for Arduino
 
-This is my project of coding a DHT11 Temperature and Humidity module to detect the temperature and humidity and output it onto a 16x2 LCD screen
+This is my project of coding a DHT11 Temperature and Humidity module to detect temperature and humidity and output it onto a 16x2 LCD screen
 
 
 
@@ -9,6 +9,8 @@ By CybertronianFan on GitHub.
 
 
 Parts List:
+
+
 
 1 x Arduino Uno (This is the one I used but I believe others can be used)
 
@@ -28,11 +30,13 @@ Parts List:
 
 Connection Guide:
 
+
+
 1. Connect the 5V Arduino pin to the + rail on the breadboard. (Make sure the Arduino Uno isn't being given power during this connection period).
 
 2\. Connect the ground Arduino pin to the - rail on the breadboard.
 
-3\. Connect the LCD pins onto to the breadboard (Make sure onto the regular rails and not the power rails on the side.
+3\. Connect the LCD pins onto to the breadboard (Make sure it is on the regular rails and not the power rails on the side).
 
 4\. Place the potentiometer across the "bridge" of the breadboard.
 
@@ -49,6 +53,8 @@ Connection Guide:
 
 
 Coding instructions:
+
+
 
 Copy paste the code titled "TaHs\_Code" into Arduino IDE and upload it to the Arduino Uno. 
 
