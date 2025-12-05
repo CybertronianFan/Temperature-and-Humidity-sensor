@@ -1,6 +1,6 @@
-# Arduino\_Dinosaur\_Game
+# Temperature and Humidity Sensor
 
-Using Arduino and photoresistors to cheat the google dinosaur game.
+I am coding a DHT11 Temperature and Humidity module to detect the temperature and humidity and output it onto a 16x2 LCD Screen
 
-This is a test project to see me first document on GitHub
+By Tejas Heejebu
 
