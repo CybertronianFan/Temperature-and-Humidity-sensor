@@ -4,7 +4,7 @@ This is my project of coding a DHT11 Temperature and Humidity module to detect t
 
 
 
-By CybertronianFan on GitHub.
+By CybertronianFan on GitHub. Please give credit to me if code is taken.
 
 
 Libraries:
