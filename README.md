@@ -7,6 +7,11 @@ This is my project of coding a DHT11 Temperature and Humidity module to detect t
 By CybertronianFan on GitHub.
 
 
+Libraries:
+
+Download the Liquid Crystal library and the DHT sensor library by Adafruit
+
+
 
 Parts List:
 
